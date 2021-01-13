@@ -1,0 +1,29 @@
+.inputs{
+	background-color: #F7D359;
+	width: 250px;
+}
+
+.wordInput{
+	padding: 10px;
+	background-color: #F7D359;
+}
+
+.letterInput{
+	margin-left: 5px;
+	padding: 10px;
+	background-color: #F7D359;
+}
+
+#submitButton{
+	margin-left: 35px;
+	margin-top: 10px;
+}
+
+label{
+	background-color: #F7D359;
+}
+
+#submitButton{
+	margin-bottom: 20px;
+	margin-left: 110px;
+}
